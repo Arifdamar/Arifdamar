@@ -6,4 +6,4 @@ Outside my day job I'm the CTO of [Anonymous Çeviri](https://www.anonymouscevir
 
 My work code lives in private repos, so there isn't much to see here. There's a short write-up at [arifdamar.dev](https://arifdamar.dev).
 
-I'm available for freelance work. Email: arifdamar.business@gmail.com
+I'm available for freelance work. Email: hello@arifdamar.dev
